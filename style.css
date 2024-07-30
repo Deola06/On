@@ -116,7 +116,7 @@ body, html {
     background-size: cover;
     -webkit-background-clip: text;
     background-clip: text;
-    text-shadow: 1px 1px 5px rgba(60, 50, 50, 0.2);
+    text-shadow: 1px 1px 4px rgba(80, 70, 70, 0.2);
 }
 
 .fairy-lights {
